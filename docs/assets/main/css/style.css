@@ -7518,12 +7518,12 @@ h1, h2, h3, h4, h5,
       content: '';
       opacity: .99;
       background: #448ef6;
-      background: -moz-linear-gradient(45deg, #29bae4 0%, #ee76ad 100%);
-      background: -webkit-gradient(left bottom, right top, color-stop(0%, #29bae4), color-stop(100%, #ee76ad));
-      background: -webkit-linear-gradient(45deg, #29bae4 0%, #ee76ad 100%);
-      background: -o-linear-gradient(45deg, #29bae4 0%, #ee76ad 100%);
-      background: -ms-linear-gradient(45deg, #29bae4 0%, #ee76ad 100%);
-      background: linear-gradient(45deg, #29bae4 0%, #ee76ad 100%);
+      background: -moz-linear-gradient(45deg, #065703 0%, #1a0846 100%);
+      background: -webkit-gradient(left bottom, right top, color-stop(0%, #065703), color-stop(100%, #1a0846));
+      background: -webkit-linear-gradient(45deg, #065703 0%, #1a0846 100%);
+      background: -o-linear-gradient(45deg, #065703 0%, #1a0846 100%);
+      background: -ms-linear-gradient(45deg, #065703 0%, #1a0846 100%);
+      background: linear-gradient(45deg, #065703 0%, #1a0846 100%);
       filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#448ef6', endColorstr='#af05a9', GradientType=1 ); }
     .home-slider .slider-item .slider-text {
       color: #fff;
@@ -7682,7 +7682,7 @@ h1, h2, h3, h4, h5,
     content: '';
     position: absolute;
     left: 0;
-    bottom: -50px;
+    bottom: -70px;
     overflow: visible;
     width: 100%;
     height: 120px;
@@ -7692,7 +7692,7 @@ h1, h2, h3, h4, h5,
     -ms-transform: skewY(4deg);
     -o-transform: skewY(4deg);
     transform: skewY(4deg);
-    background-color: #fff; }
+    background-color: #f8faff; }
 
 .ftco-section-featured {
   margin-top: -250px;
